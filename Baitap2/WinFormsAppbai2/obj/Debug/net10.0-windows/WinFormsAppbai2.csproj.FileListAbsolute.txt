@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\bin\Debug\net10.0-windows\WinFormsAppbai2.exe
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\bin\Debug\net10.0-windows\WinFormsAppbai2.deps.json
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\bin\Debug\net10.0-windows\WinFormsAppbai2.runtimeconfig.json
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\bin\Debug\net10.0-windows\WinFormsAppbai2.dll
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\bin\Debug\net10.0-windows\WinFormsAppbai2.pdb
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.Form1.resources
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.dll
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\refint\WinFormsAppbai2.dll
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.pdb
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinFormsAppbai2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\ref\WinFormsAppbai2.dll
+C:\Users\Administrator\source\repos\WinFormsAppbai2\WinFormsAppbai2\obj\Debug\net10.0-windows\WinForms.A0B39B7C.Up2Date
